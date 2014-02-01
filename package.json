@@ -1,0 +1,20 @@
+{
+  "name": "plink-server",
+  "description": "Basic websocket server for plink, based on onramp",
+  "version": "0.1.0",
+  "dependencies": {
+    "commander": "~1.1.1",
+    "onramp": "~0.2.0"
+  },
+  "devDependencies": {},
+  "main": "index.js",
+  "bin": {
+    "plink-server": "./bin/plink-server"
+  },
+  "preferGlobal": true,
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "keywords": ["peer-to-peer", "websockets", "webrtc", "p2p", "plink", "p", "onramp", "mesh", "distributed"]
+}
