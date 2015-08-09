@@ -1,6 +1,6 @@
 # plink-server
 
-plink-server is a WebSocket server which helps plink clients to connect to each other. It's small layer on top of [onramp](https://github.com/oztu/onramp)).
+plink-server is a WebSocket server which helps plink clients to connect to each other. It's small layer on top of [onramp](https://github.com/unsetbit/onramp)).
 
 ## To use
 
